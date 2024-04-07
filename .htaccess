@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+Options -Indexes
+RewriteEngine On
+#==============================#
+# Assign Index
+#==============================#
+</IfModule>
