@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "js-confuser": "^1.7.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "htdocs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "ThanhDieuTv",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": "14.x"
+  }
+}
