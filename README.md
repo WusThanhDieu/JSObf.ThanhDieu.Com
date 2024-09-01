@@ -26,8 +26,8 @@ JsConfuser.obfuscate(`
 ### Option:
 | Parameter | Type |
 | --- | --- |
-| target | string (browser | nodejs) |
-| preset | string (low | medium | high) |
+| target | string (browser - nodejs) |
+| preset | string (low - medium - high) |
 | stringEncoding | boolean (true or false) |
 | stringConcealing | boolean (true or false) |
 | stringCompression | boolean (true or false) |
