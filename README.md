@@ -26,8 +26,8 @@ JsConfuser.obfuscate(`
 ### Option:
 | Parameter | Type |
 | --- | --- |
-| target | string (browser - nodejs) |
-| preset | string (low - medium - high) |
+| target | string |
+| preset | string |
 | stringEncoding | boolean |
 | stringConcealing | boolean |
 | stringCompression | boolean |
@@ -41,9 +41,9 @@ JsConfuser.obfuscate(`
 | opaquePredicates | boolean |
 | deadCode | boolean |
 | calculator | boolean |
-| domainLock | array (["mywebsite.com"]) |
-| osLock | array (["windows", "linux"]) |
-| browserLock | array (["firefox"]) |
+| domainLock | array |
+| osLock | array |
+| browserLock | array |
 | selfDefending | boolean |
 | antiDebug | boolean |
 | duplicateLiteralsRemoval | boolean |
