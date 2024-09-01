@@ -1,4 +1,4 @@
-# Công cụ mã hoá JavaScript ngăn chặn các human copy không thể chỉnh sửa được. [Tới trang mã hoá](https://fakebill.thanhdieutv.com/tools/obfuscate-javascript).
+# Công cụ mã hoá JavaScript ngăn chặn các human copy không thể chỉnh sửa được. [trang mã hoá online](https://fakebill.thanhdieutv.com/tools/obfuscate-javascript).
 
 ### Cách sử dụng:
 
@@ -61,4 +61,4 @@ JsConfuser.obfuscate(`
 
 ### Ảnh demo:
 
-![ThanhDieu.Com](https://i.imgur.com/WeeRrzP.png)
+![ThanhDieu.Com](https://i.imgur.com/IIaj1gM.png)
