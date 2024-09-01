@@ -1,4 +1,4 @@
-# Công cụ mã hoá JavaScript ngăn chặn các human copy không thể chỉnh sửa được. [trang mã hoá online](https://fakebill.thanhdieutv.com/tools/obfuscate-javascript).
+# Công cụ mã hoá JavaScript ngăn chặn các king of copy không thể chỉnh sửa được. [trang mã hoá online](https://fakebill.thanhdieutv.com/tools/obfuscate-javascript).
 
 ### Cách sử dụng:
 
