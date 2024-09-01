@@ -28,27 +28,27 @@ JsConfuser.obfuscate(`
 | --- | --- |
 | target | string (browser - nodejs) |
 | preset | string (low - medium - high) |
-| stringEncoding | boolean (true or false) |
-| stringConcealing | boolean (true or false) |
-| stringCompression | boolean (true or false) |
-| stringSplitting | boolean (true or false) |
-| integrity | boolean (true or false) |
-| renameVariables | boolean (true or false) |
-| renameGlobals | boolean (true or false) |
-| movedDeclarations | boolean (true or false) |
-| controlFlowFlattening | boolean (true or false) |
-| dispatcher | boolean (true or false) |
-| opaquePredicates | boolean (true or false) |
-| deadCode | boolean (true or false) |
-| calculator | boolean (true or false) |
+| stringEncoding | boolean |
+| stringConcealing | boolean |
+| stringCompression | boolean |
+| stringSplitting | boolean |
+| integrity | boolean |
+| renameVariables | boolean |
+| renameGlobals | boolean |
+| movedDeclarations | boolean |
+| controlFlowFlattening | boolean |
+| dispatcher | boolean |
+| opaquePredicates | boolean |
+| deadCode | boolean |
+| calculator | boolean |
 | domainLock | array (["mywebsite.com"]) |
 | osLock | array (["windows", "linux"]) |
 | browserLock | array (["firefox"]) |
-| selfDefending | boolean (true or false) |
-| antiDebug | boolean (true or false) |
-| duplicateLiteralsRemoval | boolean (true or false) |
-| shuffle | boolean (true or false) |
-| stack | boolean (true or false) |
+| selfDefending | boolean |
+| antiDebug | boolean |
+| duplicateLiteralsRemoval | boolean |
+| shuffle | boolean |
+| stack | boolean |
 
 ### Ảnh demo:
 
